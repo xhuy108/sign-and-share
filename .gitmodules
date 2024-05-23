@@ -1,0 +1,6 @@
+[submodule "sign_and_share_mobile"]
+	path = sign_and_share_mobile
+	url = https://github.com/xhuy108/sign_and_share_mobile
+[submodule "sign_and_share_server"]
+	path = sign_and_share_server
+	url = https://github.com/xhuy108/sign_and_share_server
